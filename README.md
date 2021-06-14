@@ -8,5 +8,8 @@ I faced some challenges specifically in the function for validating the number t
 
 ### Future Implementations
 - I would like to continue this project and develop a GUI user interface for the sudoku board. 
+- I would like to implement recursion into more projects that require repetitive tasks and data.
 
+#### Credits
+For this project I followed a tutorial *Tech with Tim* and that can be found [here] (https://www.techwithtim.net/tutorials/python-programming/sudoku-solver-backtracking/). 
 
